@@ -1,4 +1,4 @@
 pandas==0.23.0
 plotly==3.10.0
-numpy==1.15.1
+numpy==1.22.0
 nbinteract==0.2.4
